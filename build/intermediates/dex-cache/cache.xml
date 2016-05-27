@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\Desktop\FastIndex\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_80956142f3402179ca97a48a3d0fbcb53a3fda97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\FastIndex\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Administrator\Desktop\FastIndex\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_f1b4b931657479fb953dc7ca54bdd898f95c473c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\FastIndex\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2378756a0c8981c032175c5a2cecb51a4affb3c5">
+        <dex dex="C:\Users\Administrator\Desktop\FastIndex\app\build\intermediates\pre-dexed\debug\instant-run_f87065132ce865267a042c5548fe1de229aa19e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\FastIndex\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30eeb8f209d9e8198fcc01086040934a6ff45739">
+        <dex dex="C:\Users\Administrator\Desktop\FastIndex\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2eee3a922be49de01e14d8cb20cd32aa49df1c60.jar" />
+    </item>
+
+</items>
